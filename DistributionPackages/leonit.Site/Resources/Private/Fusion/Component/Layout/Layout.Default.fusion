@@ -1,0 +1,9 @@
+prototype(leonit.Site:Component.Layout.Default) < prototype(Neos.Fusion:Component) {
+    content = ''
+
+    renderer = afx`
+        <leonit.Site:Component.Header />
+        {props.content}
+        <leonit.Site:Component.Footer />
+    `
+}

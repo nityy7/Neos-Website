@@ -1,0 +1,7 @@
+'leonit.Site:Document.Page':
+  superTypes:
+    'leonit.Site:Document.AbstractPage': true
+  ui:
+    label: i18n
+    icon: file-o
+    position: 100

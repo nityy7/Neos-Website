@@ -1,0 +1,8 @@
+'leonit.Site:Content.Image':
+  superTypes:
+    'Neos.Neos:Content': true
+    'leonit.Site:Mixin.Image': true
+  ui:
+    label: Image
+    icon: picture
+    position: 300
